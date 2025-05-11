@@ -8,8 +8,6 @@ A repository to create the architectural reconstruction handin in the course sof
 This project is made with Python 3.12
 
 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
-
 # Getting Started
 
 The project is made in VS code. 
@@ -20,13 +18,6 @@ The requirements are in the file `requirements.txt`
 ```bash
 pip install -r "requirements.txt"
 ```
-
-For installation of graphviz use conda forge or something similar to ensure correct installation
-
-```
-conda install -c conda-forge python-graphviz pygraphviz
-```
-
 
 
 TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
